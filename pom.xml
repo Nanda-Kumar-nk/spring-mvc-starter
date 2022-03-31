@@ -9,7 +9,7 @@
     <description>Spring MVC Hello World Example</description>
 
     <properties>
-        <spring.version>5.2.3.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
     </properties>
     <!-- Add Spring Web and MVC dependencies -->
     <dependencies>
